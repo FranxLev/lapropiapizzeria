@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# DEMO: cambia esta regla después de autorizar y publicar la web oficial.
